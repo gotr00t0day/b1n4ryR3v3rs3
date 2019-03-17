@@ -1,7 +1,7 @@
 #!/bin/bash
 
 
-# b|n4ryR3v3rs3 + shell by c0deninja 
+# b1n4ryR3v3rs3 + shell by c0deninja 
 # gotr00t security team
 # shoutout to colossus for helping me out!
 # Discord: http://discord.gg/JV6pu5q
